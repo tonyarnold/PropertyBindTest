@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>PropertyBindTest.xcscheme</key>
+		<key>PropertyBindTest.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -13,6 +13,21 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>90F896101D8A232200129E2A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90F8965E1D8A259E00129E2A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90F8966E1D8A26AF00129E2A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90F896761D8A26AF00129E2A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
